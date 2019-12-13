@@ -1,2 +1,2 @@
-# TechDegree-Project-One
- Project One of the Team Treehouse Tech Degree (Front End Web Development)
+# Project One of the Team Treehouse Tech Degree (Front End Web Development)
+
